@@ -471,9 +471,16 @@ footer p{
     font-size: 1em;
 }
 footer svg{
-    margin-right: 100px;
 }
 
+.conoce a{
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+.conoce a p{
+    width: 70%;
+}
 
 
 
